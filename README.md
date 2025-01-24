@@ -1,11 +1,11 @@
 # Talking-3D-Avatar
 - First run these commands to install required libraries on the VS code terminal.
 ```bash
- npm install --save three
- npm install --save-dev vite
+ npm i
+
 ```
 - to run the code ,
   ```bash
-  npx vite   
+  yarn dev   
   ``` 
 the local host link will appear. 
